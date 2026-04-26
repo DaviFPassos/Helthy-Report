@@ -23,10 +23,10 @@
 
 ## 🛠️ Technologies Used
 
-### Backend & Data Science
+### Data Science
 - **Python**: Main language for processing.
 - **Pandas**: DataFrame manipulation and cleaning.
-- **Matplotlib & Seaborn**: Generation of statistical visualizations and high-quality charts.
+- **Matplotlib, Seaborn & Plotly**: Generation of statistical visualizations and high-quality charts. Obs: Plotly is a interactive graph, pretty good for presentations
 - **Jupyter Notebooks**: Environment for experimentation and analysis documentation.
 
 ---
