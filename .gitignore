@@ -1,3 +1,11 @@
+# Virtual Enviroments
+
 venv_smoking_med/
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
-*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
