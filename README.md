@@ -1,9 +1,9 @@
-# 📊 Healthy-Report: Data Analysis and Health Indicators
+# 📊 Smoking-Health-Report: Data Analysis and Health Indicators
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)](https://pandas.pydata.org/)
 
-**Healthy-Report** is an Exploratory Data Analysis (EDA) project focused on identifying health patterns, medical costs, and correlations between lifestyle and biometric indicators. The goal is to transform raw data into visual and actionable insights for health management.
+**Smoking-Health-Report** is an Exploratory Data Analysis (EDA) project focused on identifying health patterns, medical costs, and correlations between lifestyle and biometric indicators. The goal is to transform raw data into visual and actionable insights for health management.
 
 ---
 
